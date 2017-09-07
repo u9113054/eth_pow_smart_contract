@@ -1,0 +1,1 @@
+#eth_pow_smart_contract
