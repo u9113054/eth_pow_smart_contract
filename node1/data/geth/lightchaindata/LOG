@@ -1,0 +1,6 @@
+=============== Sep 4, 2017 (CST) ===============
+21:28:08.672784 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:28:08.672922 db@open opening
+21:28:08.673290 version@stat F·[] S·0B[] Sc·[]
+21:28:08.680478 db@janitor F·2 G·0
+21:28:08.680495 db@open done T·7.567084ms

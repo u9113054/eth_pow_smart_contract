@@ -1,0 +1,4 @@
+#!/bin/bash
+
+geth --datadir ./data --networkid 55661 --port 3001 --ipcpath ./data/geth.ipc console
+
